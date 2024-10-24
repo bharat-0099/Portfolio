@@ -10,7 +10,7 @@
     display: flex;
     padding: 20px;
     font-size: 40px;
-    font-family:'Times New Roman', Times, serif;
+  
 }
 .bus-overview h2{
     margin-bottom: 15px;
@@ -20,7 +20,7 @@
 .bus-overview p{
     margin-bottom: 15px;
     font-size: 18px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
     transition: text-shadow 0.4s ease;
 
 }
@@ -64,7 +64,7 @@ h2.animated {
 .bus-sol p{
     margin-bottom: 15px;
     font-size: 18px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
     transition: text-shadow 0.4s ease;
 
 }
