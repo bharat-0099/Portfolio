@@ -1,6 +1,20 @@
-# React + Vite
+# Porfolio using React 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This Application contains 10 modules
+1. Navigation Bar
+2. Hero
+3. About
+4. Education
+5. Work Experiences
+6. Skills
+7. Business Model
+8. Projects
+9. Contact - Integrated with Webform3 API to get the details to our mail when the user tries to message us
+10. Footer
+
+
+The Images that I used in this Application were Located in the assets Folder which lies under Src-assets
+
 
 Currently, two official plugins are available:
 
